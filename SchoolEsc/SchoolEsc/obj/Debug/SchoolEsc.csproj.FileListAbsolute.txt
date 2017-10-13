@@ -74,3 +74,16 @@ C:\Users\Milan\Documents\GitHub\SchoolEscape Local\SchoolEsc\SchoolEsc\obj\Debug
 C:\Users\Milan\Documents\GitHub\SchoolEscape Local\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.exe
 C:\Users\Milan\Documents\GitHub\SchoolEscape Local\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.pdb
 D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\SVN bestanden\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.csprojResolveAssemblyReference.cache
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\bin\Debug\SchoolEsc.exe.config
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\bin\Debug\SchoolEsc.exe
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\bin\Debug\SchoolEsc.pdb
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.csprojResolveAssemblyReference.cache
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.Properties.Resources.resources
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.Handleiding.resources
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.Menu.resources
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.Speelveld.resources
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.SpeelveldPanel.resources
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.csproj.GenerateResource.Cache
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.csproj.CoreCompileInputs.cache
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.exe
+C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.pdb

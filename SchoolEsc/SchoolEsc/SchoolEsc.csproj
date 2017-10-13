@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\ScoreData.cs" />
     <Compile Include="Controller\SpelerController.cs" />
     <Compile Include="Controller\VijandController.cs" />
     <Compile Include="Model\Karakter.cs" />
@@ -73,11 +74,11 @@
     <Compile Include="View\Speelveld.Designer.cs">
       <DependentUpon>Speelveld.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\UserControl1.cs">
+    <Compile Include="View\SpeelveldPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="View\UserControl1.Designer.cs">
-      <DependentUpon>UserControl1.cs</DependentUpon>
+    <Compile Include="View\SpeelveldPanel.Designer.cs">
+      <DependentUpon>SpeelveldPanel.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -98,8 +99,8 @@
     <EmbeddedResource Include="View\Speelveld.resx">
       <DependentUpon>Speelveld.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\UserControl1.resx">
-      <DependentUpon>UserControl1.cs</DependentUpon>
+    <EmbeddedResource Include="View\SpeelveldPanel.resx">
+      <DependentUpon>SpeelveldPanel.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -139,6 +140,7 @@
     <None Include="Resources\ExamenIcoon.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Controller\ScoreData.txt" />
     <Content Include="Resources\college-student.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

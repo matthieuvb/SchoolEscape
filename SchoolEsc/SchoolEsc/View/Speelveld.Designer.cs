@@ -151,7 +151,7 @@
             this.Score.Name = "Score";
             this.Score.Size = new System.Drawing.Size(67, 32);
             this.Score.TabIndex = 0;
-            this.Score.Text = "EC: ";
+            this.Score.Text = "EC: " + Controller.ScoreData.getScore();
             this.Score.Click += new System.EventHandler(this.Score_Click);
             // 
             // speelveldPanel1

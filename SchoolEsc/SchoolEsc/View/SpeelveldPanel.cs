@@ -108,7 +108,7 @@ namespace SchoolEsc.View
                 }
                 if (speler.BewegingX >= 420 && speler.BewegingY >= 220)
                 {
-
+                    Controller.ScoreData.VerhoogScore();
 
                     BeginOpnieuw();
                     // spelerController.ResetSpel();
@@ -151,6 +151,7 @@ namespace SchoolEsc.View
                 }
                 if (speler.BewegingX >= 420 && speler.BewegingY >= 200)
                 {
+                    Controller.ScoreData.VerhoogScore();
                     BeginOpnieuw();
                     Invalidate();
                 }

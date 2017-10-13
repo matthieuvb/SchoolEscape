@@ -14,10 +14,9 @@ namespace SchoolEsc.View
 {
     public partial class Speelveld : Form
     {
-        bool PauseClicked;
 
         // initialiseren van een speelveld paneel in deze speelveld form
-        SpeelveldPanel speelveldPanel = new SpeelveldPanel();
+        //SpeelveldPanel speelveldPanel = new SpeelveldPanel();
 
         public Speelveld()
         {
@@ -62,12 +61,7 @@ namespace SchoolEsc.View
 
         private void pictureBox5_Click(object sender, EventArgs e)
         {
-            PauseClicked = true;
-            do
-            {
-                
-                //pause program
-            } while (PauseClicked);
+
         }
 
         private void Speelveld_Load(object sender, EventArgs e)
@@ -78,7 +72,6 @@ namespace SchoolEsc.View
 
         private void Play_Click(object sender, EventArgs e)
         {
-            PauseClicked = false;
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)

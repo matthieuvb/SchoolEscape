@@ -21,18 +21,20 @@ namespace SchoolEsc.View
         {
             this.Hide();
             Handleiding hl = new Handleiding();
-            hl.Show();
+            hl.Closed += (s, args) => this.Close();
             hl.Location = this.Location;
+            hl.Show();
+            hl.Refresh();
         }
 
         private void PlayGame_Click(object sender, EventArgs e)
         {
             this.Hide();
             Speelveld sv = new Speelveld();
-            //sv.ShowDialog(this);
             sv.Closed += (s, args) => this.Close();
             sv.Location = this.Location;
             sv.Show();
+            sv.Refresh();
         }
 
         private void ExitGame_Click(object sender, EventArgs e)
