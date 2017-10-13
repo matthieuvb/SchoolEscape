@@ -202,9 +202,9 @@ namespace SchoolEsc.View
             bool Geraakt = false;
             foreach (VijandController Item in SchoolEsc.Controller.VijandController.Vijanden)
             {
-                if ((speler.BewegingX > Item.vijand.X) && (speler.BewegingX < Item.vijand.X + 50)
+                if ((speler.BewegingX > Item.vijand.X || speler.BewegingX + 50 > Item.vijand.X) && (speler.BewegingX < Item.vijand.X + 50 || speler.BewegingX + 50 < Item.vijand.X + 50)
                     &&
-                    (speler.BewegingY > Item.vijand.Y) && (speler.BewegingY < Item.vijand.Y + 50))
+                    (speler.BewegingY > Item.vijand.Y || speler.BewegingY + 50 > Item.vijand.Y) && (speler.BewegingY < Item.vijand.Y + 50 || speler.BewegingY + 50 < Item.vijand.Y + 50))
                 {
                     Geraakt = true;
                 }
