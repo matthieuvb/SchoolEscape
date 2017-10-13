@@ -39,7 +39,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Eindpunt.Image = global::SchoolEsc.Properties.Resources.open_exit_door;
             this.Eindpunt.Location = new System.Drawing.Point(669, 389);
-            this.Eindpunt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Eindpunt.Margin = new System.Windows.Forms.Padding(4);
             this.Eindpunt.MaximumSize = new System.Drawing.Size(92, 74);
             this.Eindpunt.Name = "Eindpunt";
             this.Eindpunt.Size = new System.Drawing.Size(90, 72);
@@ -51,6 +51,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::SchoolEsc.Properties.Resources.Windesheim7_748x478;
             this.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Controls.Add(this.Eindpunt);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);

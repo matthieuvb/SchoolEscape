@@ -87,3 +87,16 @@ C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\S
 C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.csproj.CoreCompileInputs.cache
 C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.exe
 C:\Users\Merijn\Documents\HBO-ICT\Jaar2\KBS1\Gitversion\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.pdb
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\bin\Debug\SchoolEsc.exe.config
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\bin\Debug\SchoolEsc.exe
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\bin\Debug\SchoolEsc.pdb
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.csprojResolveAssemblyReference.cache
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.Properties.Resources.resources
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.Handleiding.resources
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.Menu.resources
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.Speelveld.resources
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.SpeelveldPanel.resources
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.csproj.GenerateResource.Cache
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.csproj.CoreCompileInputs.cache
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.exe
+D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.pdb
