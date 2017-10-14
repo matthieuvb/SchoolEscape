@@ -37,6 +37,7 @@
             this.Eindpunt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.Eindpunt.BackColor = System.Drawing.Color.Transparent;
             this.Eindpunt.Image = global::SchoolEsc.Properties.Resources.open_exit_door;
             this.Eindpunt.Location = new System.Drawing.Point(669, 389);
             this.Eindpunt.Margin = new System.Windows.Forms.Padding(4);
