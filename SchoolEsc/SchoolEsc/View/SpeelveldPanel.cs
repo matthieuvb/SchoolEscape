@@ -87,19 +87,17 @@ namespace SchoolEsc.View
             //Zorgt dat de karakters op hun nieuwe positie staan.
             foreach (VijandController Item in VijandController.Vijanden)
             {
-                //Testregel
-
-
                 gc.DrawImage(Item.vijand.Afbeelding, new Point(Item.vijand.X, Item.vijand.Y));
             }
-
+            //Controleert of er op dezelfde coordinaten vijanden zitten.
+            CheckAanrakingVijanden();
+            //Maakt de wijzigingen zichtbaar.
             Invalidate();
         }
 
         // de spelercontroller wordt aangeroepen met de juiste methode zodra er op de arrow knop wordt gedrukt
         protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
         {
-            CheckAanrakingVijanden();
             if (keyData == Keys.Down)
             {
                 if (speler.BewegingY >= 325) //onderkant speelveld
