@@ -24,27 +24,22 @@ namespace SchoolEsc.View
             hl.Closed += (s, args) => this.Close();
             hl.Location = this.Location;
             hl.Show();
-            hl.Refresh();
+
         }
 
         private void PlayGame_Click(object sender, EventArgs e)
         {
             this.Hide();
             Speelveld sv = new Speelveld();
+            //sv.ShowDialog(this);
             sv.Closed += (s, args) => this.Close();
             sv.Location = this.Location;
             sv.Show();
-            sv.Refresh();
         }
 
         private void ExitGame_Click(object sender, EventArgs e)
         {
             Application.Exit();
-        }
-
-        private void Menu_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void Menu_FormClosing(object sender, FormClosingEventArgs e)

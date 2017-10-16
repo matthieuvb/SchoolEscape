@@ -100,3 +100,15 @@ D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\Schoo
 D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.csproj.CoreCompileInputs.cache
 D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.exe
 D:\matth\Dropbox\School\HBO-ICT\Hoofdfase jaar 1\KBS1 (Videogame)\GitFiles\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.pdb
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.Properties.Resources.resources
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.Handleiding.resources
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.Menu.resources
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.Speelveld.resources
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.View.SpeelveldPanel.resources
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.csproj.GenerateResource.Cache
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.csproj.CoreCompileInputs.cache
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.exe
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\obj\Debug\SchoolEsc.pdb
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\bin\Debug\SchoolEsc.exe.config
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\bin\Debug\SchoolEsc.exe
+\\Mac\Home\SchoolEscape\SchoolEsc\SchoolEsc\bin\Debug\SchoolEsc.pdb

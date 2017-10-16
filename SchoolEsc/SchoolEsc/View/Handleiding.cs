@@ -17,7 +17,15 @@ namespace SchoolEsc.View
             InitializeComponent();
         }
 
-        private void Handleiding_Load(object sender, EventArgs e)
+        private void BackMenu_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Menu ml = new Menu();
+            ml.Show();
+            ml.Location = this.Location;
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
